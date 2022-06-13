@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.m2/repository/antlr/antlr/2.7.7/antlr.iml" filepath="$PROJECT_DIR$/.m2/repository/antlr/antlr/2.7.7/antlr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.m2/repository/aopalliance/aopalliance/1.0/aopalliance.iml" filepath="$PROJECT_DIR$/.m2/repository/aopalliance/aopalliance/1.0/aopalliance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.m2/repository/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent.iml" filepath="$PROJECT_DIR$/.m2/repository/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.m2/repository/commons-codec/commons-codec/1.13/commons-codec.iml" filepath="$PROJECT_DIR$/.m2/repository/commons-codec/commons-codec/1.13/commons-codec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.m2/repository/commons-io/commons-io/2.4/commons-io.iml" filepath="$PROJECT_DIR$/.m2/repository/commons-io/commons-io/2.4/commons-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.m2/repository/commons-io/commons-io/2.5/commons-io (1).iml" filepath="$PROJECT_DIR$/.m2/repository/commons-io/commons-io/2.5/commons-io (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.m2/repository/commons-io/commons-io/2.6/commons-io (2).iml" filepath="$PROJECT_DIR$/.m2/repository/commons-io/commons-io/2.6/commons-io (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/docker-compose-spring-boot-mysql.iml" filepath="$PROJECT_DIR$/.idea/docker-compose-spring-boot-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.m2/repository/mysql/mysql-connector-java/8.0.18/mysql-connector-java.iml" filepath="$PROJECT_DIR$/.m2/repository/mysql/mysql-connector-java/8.0.18/mysql-connector-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bezkoder-app/spring-boot-data-jpa.iml" filepath="$PROJECT_DIR$/bezkoder-app/spring-boot-data-jpa.iml" />
+    </modules>
+  </component>
+</project>
