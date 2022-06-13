@@ -17,6 +17,6 @@
     <file url="file://$PROJECT_DIR$/.m2/repository/commons-io/commons-io/2.6" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/.m2/repository/commons-io/commons-io/2.6/src/main/java" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/.m2/repository/commons-io/commons-io/2.6/src/main/resources" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/bezkoder-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java" charset="UTF-8" />
   </component>
 </project>
